@@ -1,0 +1,22 @@
+ ---------------  Digital-com Simulation  ---------------------
+ ---------------          Mertz           ---------------------
+ ---------------          2020            ---------------------
+
+
+--- number of bit quantize  : 4.00 
+--- number of bit data      : 96000.00 
+--- number of bit data ham  : 144001.00 
+--- Carrier Frequency       : 50.00 
+--- Sampling Frequency      : 500.00 
+--- Bit Rate                : 1989.44 
+--- SNR                     : -4.00 
+--- Filter low 55.00 and high 55.00 
+--- number of error         : 564.00 
+--- number of error rate    : 0.0058750000 
+
+ 
+ --------  TIMES ---------- 
+***  time of sound-encode   : 0.3983 
+***  time of modulation     : 10.5840 
+***  time of demodulation   : 0.6910 
+***  time of sound-deencode : 0.0016 
